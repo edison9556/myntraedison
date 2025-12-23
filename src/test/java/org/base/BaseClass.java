@@ -19,6 +19,9 @@ public class BaseClass {
 	public static void browser() {
 		driver=new ChromeDriver();
 		
+		
+		System.out.println("Vijay");
+		
 	}
 	
 	public static void waits(int i) {
